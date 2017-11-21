@@ -1,2 +1,2 @@
-# BMCS
+# BMCS/RCON
 # Test
